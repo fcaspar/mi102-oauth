@@ -14,3 +14,4 @@ Eine VueJS-SPA. Sie bietet eine Einlogmöglichkeit via des obrig erwähnten Keyc
 ## Todo-API
 
 NestJS-basierte API, welche den obrigen Keycloak-Server nutzt, um Anfragen an das Backend auf autorisierten Zugriff zu prüfen. Nutzt den `sub`-Claim innerhalb des geschickten Access-Tokens, um Todos Nutzern zuorndern und den Zugriff auf diese limiteren zu können.
+
